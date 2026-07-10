@@ -1,21 +1,13 @@
 # Hi 👋, I'm Makendra Crosby
 
-### Recent ODU Graduate
+### Recent Graduate of Old Dominion University (ODU)
 
 
-- 🔭 I'm currently working on **personal portfolio projects, full-stack applications, and cybersecurity labs**
+I'm currently working on **personal portfolio projects, full-stack applications, and cybersecurity labs**. I'm currently learning **cloud computing, advanced cybersecurity, and refreshing my full-stack development skills**. I'm also looking to collaborate on **cybersecurity, AI/ML, data analytics, and open source projects**!
 
-- 🌱 I'm currently learning **cloud computing, advanced cybersecurity, and refreshing my full-stack development skills**
+- 📫 **: makendracrosby100@gmail.com**
 
-- 👯 I'm looking to collaborate on **cybersecurity, AI/ML, data analytics, and open source projects**
-
-- 🤝 I'm looking for help with **contributing to open source, system design, and cloud architecture**
-
-- 💬 Ask me about **Python, Java, C, SQL, cybersecurity, data science, AI/ML, Power BI, and Tableau**
-
-- 📫 How to reach me **Email: makendracrosby100@gmail.com**
-
-- ⚡ Fun fact **If I'm not coding, I'm probably building a LEGO set.**
+- ⚡ Fun fact: **If I'm not coding, I'm probably building a LEGO set.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
