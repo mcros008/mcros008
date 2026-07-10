@@ -2,9 +2,6 @@
 
 ### Recent ODU Graduate
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcros008&label=Profile views&color=0e75b6&style=flat" alt="mcros008" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcros008" alt="mcros008" /></a> </p>
 
 - 🔭 I'm currently working on **personal portfolio projects, full-stack applications, and cybersecurity labs**
 
