@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Java, C, SQL, cybersecurity, data science, AI/ML, Power BI, and Tableau**
 
-- 📫 How to reach me **LinkedIn: linkedin.com/in/makendracrosby Email: makendracrosby100@gmail.com**
+- 📫 How to reach me **Email: makendracrosby100@gmail.com**
 
 - ⚡ Fun fact **If I'm not coding, I'm probably building a LEGO set.**
 
